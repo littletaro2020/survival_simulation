@@ -7,4 +7,4 @@ It takes four arguments:
 
 randomization method, number of simulations,sample size, number of bootstrap rounds.
 
-To run the script use command Rscript bootstrap_AR1.R spb 5000 500 500
+To run the script use command Rscript bootstrap_highorder.R spb 5000 500 500
